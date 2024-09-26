@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "S:\\ProConsulta\\ProConsulta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\atendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\atendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\data\\configurations\\agendamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\agendamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\data\\configurations\\especialidadeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\especialidadeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\data\\configurations\\medicoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\medicoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\data\\configurations\\pacienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\data\\configurations\\pacienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\atendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\atendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,19 +54,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Atendente.cs",
-              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Atendente.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Models\\Atendente.cs",
-              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Atendente.cs",
-              "RelativeToolTip": "ProConsulta\\Models\\Atendente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\DbInitializer.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T20:01:29.887Z",
+              "WhenOpened": "2024-09-26T20:37:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:33:26.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgendamentoConfiguration.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:28:04.871Z",
               "EditorCaption": ""
             },
             {
@@ -61,19 +111,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Especialidade.cs",
-              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
-              "RelativeDocumentMoniker": "ProConsulta\\Models\\Especialidade.cs",
-              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
-              "RelativeToolTip": "ProConsulta\\Models\\Especialidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T19:56:36.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Medico.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Medico.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Medico.cs",
@@ -86,7 +123,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "EspecialidadeConfiguration.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:23:52.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicoConfiguration.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:16:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PacienteConfiguration.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\PacienteConfiguration.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\PacienteConfiguration.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\PacienteConfiguration.cs",
+              "RelativeToolTip": "ProConsulta\\Data\\Configurations\\PacienteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:07:09.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Atendente.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Atendente.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Models\\Atendente.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Atendente.cs",
+              "RelativeToolTip": "ProConsulta\\Models\\Atendente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:01:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Models\\Especialidade.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
+              "RelativeToolTip": "ProConsulta\\Models\\Especialidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:56:36.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Paciente.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Paciente.cs",
@@ -94,8 +195,7 @@
               "RelativeToolTip": "ProConsulta\\Models\\Paciente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T19:50:55.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T19:50:55.493Z"
             }
           ]
         }
