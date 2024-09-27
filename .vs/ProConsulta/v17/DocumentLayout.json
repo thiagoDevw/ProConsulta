@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "S:\\ProConsulta\\ProConsulta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\repositories\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\repositories\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,19 +78,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Repositories\\Pacientes\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Repositories\\Pacientes\\PacienteRepository.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Repositories\\Pacientes\\PacienteRepository.cs",
+              "RelativeToolTip": "ProConsulta\\Repositories\\Pacientes\\PacienteRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:52:15.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IPacienteRepository.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Repositories\\Pacientes\\IPacienteRepository.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Repositories\\Pacientes\\IPacienteRepository.cs",
               "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Repositories\\Pacientes\\IPacienteRepository.cs",
               "RelativeToolTip": "ProConsulta\\Repositories\\Pacientes\\IPacienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T22:45:49.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20240927223857_initialapp.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Migrations\\20240927223857_initialapp.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Migrations\\20240927223857_initialapp.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Data\\ApplicationDbContext.cs",
@@ -106,12 +123,11 @@
               "RelativeToolTip": "ProConsulta\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T20:33:26.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T20:33:26.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Data\\DbInitializer.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MedicoConfiguration.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\MedicoConfiguration.cs",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EspecialidadeConfiguration.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\EspecialidadeConfiguration.cs",
@@ -147,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AgendamentoConfiguration.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\AgendamentoConfiguration.cs",
@@ -159,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PacienteConfiguration.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Data\\Configurations\\PacienteConfiguration.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Data\\Configurations\\PacienteConfiguration.cs",
@@ -171,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\ta741\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-95d94771-3b6a-4b40-8b3a-cefd28e5bd66\\secrets.json",
               "ToolTip": "C:\\Users\\ta741\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProConsulta-95d94771-3b6a-4b40-8b3a-cefd28e5bd66\\secrets.json",
@@ -181,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Program.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Program.cs",
@@ -193,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Agendamento.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Agendamento.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Agendamento.cs",
@@ -205,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Medico.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Medico.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Medico.cs",
@@ -217,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Atendente.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Atendente.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Atendente.cs",
@@ -229,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Especialidade.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Especialidade.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Especialidade.cs",
@@ -241,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Paciente.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Models\\Paciente.cs",
