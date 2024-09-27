@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProConsulta.Data;
 
@@ -11,9 +12,11 @@ using ProConsulta.Data;
 namespace ProConsulta.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240927223857_initialapp")]
+    partial class initialapp
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -454,15 +457,15 @@ namespace ProConsulta.Migrations
                         {
                             Id = "95433ac4-2fe9-468f-b80d-b05ec3724d1d",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "3a9f2fb8-20dc-4693-84f4-cef56e140230",
+                            ConcurrencyStamp = "3f022dd0-add8-4c6d-a1ad-6ede9efcfa31",
                             Email = "proconsulta@hotmail.com.br",
                             EmailConfirmed = true,
                             LockoutEnabled = false,
                             NormalizedEmail = "PROCONSULTA@HOTMAIL.COM.BR",
                             NormalizedUserName = "PROCONSULTA@HOTMAIL.COM.BR",
-                            PasswordHash = "AQAAAAIAAYagAAAAEHcONQBypsPLYn/1aCkk9sixpWm07H1AvVQ3/Q9t+JWlD1DXsQAf0dwZf6f1lAmVTQ==",
+                            PasswordHash = "AQAAAAIAAYagAAAAENBymtClxYmqaYaqW9PlhcxaADWnumYrgJXQ8ZGnrhY82L3+Olg6vc8KbzLa1CfMZA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "038e5bc2-74d9-42ee-88f1-b8fe85a7f7fd",
+                            SecurityStamp = "4d9f04e6-aecc-430c-83c4-86861bf7f2b4",
                             TwoFactorEnabled = false,
                             UserName = "proconsulta@hotmail.com.br",
                             Nome = "Pro Consulta"
