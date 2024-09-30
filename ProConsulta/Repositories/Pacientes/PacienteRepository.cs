@@ -19,9 +19,11 @@ namespace ProConsulta.Repositories.Pacientes
             await _context.SaveChangesAsync();
         }
 
-        public Task DeleteByIdAsync(int id)
+        public async Task DeleteByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var paciente = await GetByIdAsync(id);
+            _context.Pacientes.Remove(paciente);
+            await _context.SaveChangesAsync();
         }
 
         public async Task<List<Paciente>> GetAllAsync()
@@ -32,14 +34,17 @@ namespace ProConsulta.Repositories.Pacientes
                 .ToListAsync();
         }
 
-        public Task<Paciente?> GetByIdAsync(int id)
+        public async Task<Paciente?> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _context
+                .Pacientes
+                .SingleOrDefaultAsync(x => x.Id == id);
         }
 
-        public Task UpdateAsync(Paciente paciente)
+        public async Task UpdateAsync(Paciente paciente)
         {
-            throw new NotImplementedException();
+            _context.Update(paciente);
+            await _context.SaveChangesAsync();
         }
     }
 }
