@@ -18,7 +18,7 @@ namespace ProConsulta.Components.Pages.Medicos
         private IEspecialidadeRepository EspecialidadeRepository {  get; set; } = null!;
 
         [Inject]
-        public IMedicoRepository repository { get; set; } = null!;
+        public IMedicoRepository repository { get; set; } = default!;
 
         [Inject]
         public ISnackbar Snackbar { get; set; } = null!;
