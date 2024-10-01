@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\ProConsulta\\ProConsulta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\medicos\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\medicos\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\medicos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\medicos\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\medicos\\medicoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\medicos\\medicoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\medicos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\medicos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\medicos\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\medicos\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\pacientes\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\pacientes\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\pacientes\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\pacientes\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ProConsulta\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:55:12.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Index.razor.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Index.razor.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Index.razor.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Index.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:53:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Index.razor",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Index.razor",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Index.razor",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:53:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.razor.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Create.razor.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Pacientes\\Create.razor.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Create.razor.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Pacientes\\Create.razor.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:03:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Models\\Medico.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Models\\Medico.cs",
+              "RelativeToolTip": "ProConsulta\\Models\\Medico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:27:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicoInputModel.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\MedicoInputModel.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\MedicoInputModel.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\MedicoInputModel.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\MedicoInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:57:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.razor.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA4wDEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:55:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.razor",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T18:55:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.razor",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Create.razor",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Pacientes\\Create.razor",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Create.razor",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Pacientes\\Create.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:37:19.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
