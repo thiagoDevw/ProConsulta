@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProConsulta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3a6216b8a2574f188443817a6516065b1940791")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c4689440d27d5c2c3d2c14d29745e326f9ed59")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProConsulta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProConsulta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
