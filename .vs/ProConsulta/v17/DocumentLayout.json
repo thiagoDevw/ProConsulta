@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "S:\\ProConsulta\\ProConsulta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\agendamentos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\agendamentos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\agendamentos\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\agendamentos\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\agendamentos\\agendamentoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\agendamentos\\agendamentoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|s:\\proconsulta\\proconsulta\\proconsulta\\components\\pages\\medicos\\update.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0AC920-7578-4A3E-A160-F7D7E51E5C83}|ProConsulta\\ProConsulta.csproj|solutionrelative:proconsulta\\components\\pages\\medicos\\update.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,24 +54,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgendamentoInputModel.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Agendamentos\\AgendamentoInputModel.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Agendamentos\\AgendamentoInputModel.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Agendamentos\\AgendamentoInputModel.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Agendamentos\\AgendamentoInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:00:26.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.razor.cs",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor.cs",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor.cs",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor.cs",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:55:58.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.razor",
+              "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor",
+              "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor",
+              "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor",
+              "RelativeToolTip": "ProConsulta\\Components\\Pages\\Agendamentos\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T23:55:50.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Update.razor.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Update.razor.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Update.razor.cs",
               "ToolTip": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Update.razor.cs",
               "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Update.razor.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwDIAAAARAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T21:41:08.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Create.razor",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
@@ -67,12 +118,11 @@
               "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor",
               "ViewState": "AQIAACIAAAAAAAAAAAAAAEEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T20:24:57.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T20:24:57.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MedicoRepository.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Repositories\\Medicos\\MedicoRepository.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Repositories\\Medicos\\MedicoRepository.cs",
@@ -80,12 +130,11 @@
               "RelativeToolTip": "ProConsulta\\Repositories\\Medicos\\MedicoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:22:11.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T20:22:11.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.razor.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Index.razor.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Index.razor.cs",
@@ -97,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Create.razor.cs",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
@@ -105,12 +154,11 @@
               "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Create.razor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:55:56.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:55:56.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Update.razor",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Update.razor",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Update.razor",
@@ -118,12 +166,11 @@
               "RelativeToolTip": "ProConsulta\\Components\\Pages\\Medicos\\Update.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T21:40:59.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T21:40:59.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.razor",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Pacientes\\Index.razor",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Pacientes\\Index.razor",
@@ -135,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.razor",
               "DocumentMoniker": "S:\\ProConsulta\\ProConsulta\\ProConsulta\\Components\\Pages\\Medicos\\Index.razor",
               "RelativeDocumentMoniker": "ProConsulta\\Components\\Pages\\Medicos\\Index.razor",
