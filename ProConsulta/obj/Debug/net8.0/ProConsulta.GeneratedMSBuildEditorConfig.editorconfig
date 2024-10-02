@@ -189,6 +189,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZ2VuZGFtZW50b3NcQ3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[S:/ProConsulta/ProConsulta/ProConsulta/Components/Pages/Agendamentos/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZ2VuZGFtZW50b3NcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [S:/ProConsulta/ProConsulta/ProConsulta/Components/Pages/Auth.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
