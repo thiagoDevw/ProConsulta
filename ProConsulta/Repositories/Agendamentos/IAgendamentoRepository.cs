@@ -9,5 +9,7 @@ namespace ProConsulta.Repositories.Agendamentos
         Task DeleteByIdAsync(int id);
         Task<Agendamento?> GetByIdAsync(int id);
 
+        Task<List<AgendamentosAnuais>?> GetReportAsync();
+
     }
 }
